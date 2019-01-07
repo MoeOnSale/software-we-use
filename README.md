@@ -75,6 +75,20 @@
 > 官方插件：[Attachement](http://www.foobar2000.org/components)
 > 外部插件：[FLAC-codec](https://ftp.osuosl.org/pub/xiph/releases/flac/flac-1.3.2-win.zip)
 
+#### [GitKraken](https://www.gitkraken.com/)
+
+> 界面优雅的Git客户端，可视化效果好。
+> 
+> **全平台支持**
+> 
+> #git#
+> 
+> 下载：
+> [Windows x86](https://www.gitkraken.com/download/windows)、
+> [Windows x64](https://www.gitkraken.com/download/windows64)、
+> [MacOS](https://www.gitkraken.com/download/mac)、
+> [Linux deb](https://www.gitkraken.com/download/linux-deb)
+
 #### [MediaCoder](http://www.mediacoderhq.com/dlfull.htm)
 
 > 简单易懂的转码压制软件，支持OpenCL/CUDA/Intel Encoder
