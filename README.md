@@ -70,3 +70,16 @@
 > 下载：
 > [Windows x86](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup.exe)、
 > [Windows x64](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)
+
+### Editor 编辑器
+
+#### [Sublime Text 3](http://www.sublimetext.com/)
+
+> 强大的代码编辑器 支持插件
+> 
+> #代码编辑器# #编辑器# #插件# #扩展方便#
+> 
+> 下载：
+> [Windows x86](https://download.sublimetext.com/Sublime%20Text%20Build%203176%20Setup.exe)、
+> [Windows x64](https://download.sublimetext.com/Sublime%20Text%20Build%203176%20x64%20Setup.exe)、
+> [MacOS](https://download.sublimetext.com/Sublime%20Text%20Build%203176.dmg)
