@@ -61,6 +61,18 @@
 > 
 > 相关链接：[Bandisoft](https://www.bandisoft.com/)
 
+#### [MediaCoder](http://www.mediacoderhq.com/dlfull.htm)
+
+> 简单易懂的转码压制软件，支持OpenCL/CUDA/Intel Encoder
+>
+> **仅支持Windows**
+>
+> #视频# #压制# #转码# #视频压制# #视频转码#
+>
+> 下载：
+> [Windows x86](http://www.mediacoderhq.com/mirrors.html?file=MediaCoder-0.8.55.exe)、
+> [Windows x64](http://www.mediacoderhq.com/mirrors.html?file=MediaCoder-x64-0.8.56.exe)
+
 #### [PotPlayer](https://potplayer.daum.net/?lang=zh_CN)
 
 > 强大的播放器，格式全面，支持多种解码，支持3D。
@@ -86,3 +98,14 @@
 > [Windows x64](https://download.sublimetext.com/Sublime%20Text%20Build%203176%20x64%20Setup.exe)、
 > [MacOS](https://download.sublimetext.com/Sublime%20Text%20Build%203176.dmg)、
 > [Linux](http://www.sublimetext.com/docs/3/linux_repositories.html)
+
+#### [Xshell](https://www.netsarang.com/products/xsh_overview.html)
+
+> 强大的命令行终端，支持SSH/TELNET/Serial
+> 
+> **仅支持Windows**
+> 
+> #命令行# #终端# #命令行终端# #SSH# #TENLET# #Serial#
+> 
+> 下载:
+> [Windows](https://www.netsarang.com/download/down_form.html?code=622) 
