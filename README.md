@@ -98,3 +98,14 @@
 > [Windows x64](https://download.sublimetext.com/Sublime%20Text%20Build%203176%20x64%20Setup.exe)、
 > [MacOS](https://download.sublimetext.com/Sublime%20Text%20Build%203176.dmg)、
 > [Linux](http://www.sublimetext.com/docs/3/linux_repositories.html)
+
+#### [Xshell](https://www.netsarang.com/products/xsh_overview.html)
+
+> 强大的命令行终端，支持SSH/TELNET/Serial
+> 
+> **仅支持Windows**
+> 
+> #命令行# #终端# #命令行终端# #SSH# #TENLET# #Serial#
+> 
+> 下载:
+> [Windows](https://www.netsarang.com/download/down_form.html?code=622) 
