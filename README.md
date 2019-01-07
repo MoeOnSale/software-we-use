@@ -65,7 +65,7 @@
 
 > foobar2000 is an advanced freeware audio player for the Windows platform. 
 > 
-> **[仅支持Windows(含XP)](http://www.foobar2000.org/)**。
+> **仅支持Windows(含XP)**。
 > 
 > #音乐# #HIFI#
 > 
