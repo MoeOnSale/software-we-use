@@ -61,11 +61,11 @@
 > 
 > 相关链接：[Bandisoft](https://www.bandisoft.com/)
 
-#### [Forbar2000](http://www.foobar2000.org/)
+#### [Foobar2000](http://www.foobar2000.org/)
 
 > foobar2000 is an advanced freeware audio player for the Windows platform. 
 > 
-> **仅支持Windows(含[XP](http://www.foobar2000.org/)))**。
+> **[仅支持Windows(含XP)](http://www.foobar2000.org/)**。
 > 
 > #音乐# #HIFI#
 > 
