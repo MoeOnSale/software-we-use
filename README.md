@@ -1,6 +1,8 @@
 ﻿## 日常使用软件合集
 
 > 大家日常觉得好用的软件都丢到这里来吧😁
+> 
+> 软件按字母序排序，善用Ctrl+F搜索
 
 ---
 
@@ -71,15 +73,13 @@
 > [Windows x86](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup.exe)、
 > [Windows x64](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)
 
-### Editor 编辑器
-
 #### [Sublime Text 3](http://www.sublimetext.com/)
 
-> 强大的代码编辑器 支持插件
+> 强大的代码编辑器，支持插件
 > 
 > **全平台支持**
 > 
-> #代码编辑器# #编辑器# #插件# #扩展方便#
+> #文本# #编辑器# #文本编辑器# #代码编辑器#
 > 
 > 下载：
 > [Windows x86](https://download.sublimetext.com/Sublime%20Text%20Build%203176%20Setup.exe)、
