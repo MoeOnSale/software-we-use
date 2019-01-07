@@ -65,12 +65,12 @@
 
 > foobar2000 is an advanced freeware audio player for the Windows platform. 
 > 
-> **支持Windows(含[XP](http://www.foobar2000.org/)))**。
+> **仅支持Windows(含[XP](http://www.foobar2000.org/)))**。
 > 
 > #音乐# #HIFI#
 > 
 > 下载：
-> [Windows](http://www.foobar2000.org/getfile/da921877766ab8d9f6fe977ffa1a63d3/foobar2000_v1.4.1.exe)、
+> [Windows](http://www.foobar2000.org/getfile/da921877766ab8d9f6fe977ffa1a63d3/foobar2000_v1.4.1.exe)
 > 
 > 官方插件：[Attachement](http://www.foobar2000.org/components)
 > 外部插件：[FLAC-codec](https://ftp.osuosl.org/pub/xiph/releases/flac/flac-1.3.2-win.zip)
