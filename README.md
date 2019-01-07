@@ -85,6 +85,17 @@
 > [Windows x86](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup.exe)、
 > [Windows x64](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)
 
+#### [SpaceSniffer]
+
+> 磁盘空间占用平面化展示工具
+> 
+> **仅支持Windows(含win2000)**
+> 
+> #磁盘# #空间占用#
+>
+> 下载：
+> [Windows](https://www.fosshub.com/SpaceSniffer.html?dwl=spacesniffer_1_3_0_2.zip)
+
 #### [Sublime Text 3](http://www.sublimetext.com/)
 
 > 强大的代码编辑器，支持插件
