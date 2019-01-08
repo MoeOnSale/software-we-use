@@ -3,6 +3,8 @@
 > 大家日常觉得好用的软件都丢到这里来吧😁
 > 
 > 软件按字母序排序，善用Ctrl+F搜索
+> 
+> 如果链接日后需要关注更新（如包含版本号等），在链接文字后添加*号
 
 ---
 
@@ -21,7 +23,8 @@
 > 下载：
 > [Windows x86](下载链接最好点击即可下载)、
 > [Windows x64](如果分32/64就分开写)、
-> [MacOS](MacOS可写App Store链接)
+> [MacOS](MacOS可写App Store链接)、
+> [Linux](如果链接中包含版本号等，记得文字后面加上*号，比如[Linux*]这样)
 > 
 > 相关链接：[这里写网站名称，没有可不写相关链接](这里写网站链接)
 ↑↑↑↑↑复制到上面一行为止
@@ -70,9 +73,9 @@
 > #搜索# #文件#
 > 
 > 下载：
-> [Windows x86](https://www.voidtools.com/Everything-1.4.1.924.x86-Setup.exe)、
-> [Windows x64](https://www.voidtools.com/Everything-1.4.1.924.x64-Setup.exe)、
-> 免安装[x86](https://www.voidtools.com/Everything-1.4.1.924.x86.zip)/[x64](https://www.voidtools.com/Everything-1.4.1.924.x64.zip)
+> [Windows x86*](https://www.voidtools.com/Everything-1.4.1.924.x86-Setup.exe)、
+> [Windows x64*](https://www.voidtools.com/Everything-1.4.1.924.x64-Setup.exe)、
+> 免安装[x86*](https://www.voidtools.com/Everything-1.4.1.924.x86.zip)/[x64*](https://www.voidtools.com/Everything-1.4.1.924.x64.zip)
 
 #### [Foobar2000](http://www.foobar2000.org/)
 
@@ -83,10 +86,10 @@
 > #音乐# #HIFI#
 > 
 > 下载：
-> [Windows](http://www.foobar2000.org/getfile/da921877766ab8d9f6fe977ffa1a63d3/foobar2000_v1.4.1.exe)
+> [Windows*](http://www.foobar2000.org/getfile/da921877766ab8d9f6fe977ffa1a63d3/foobar2000_v1.4.1.exe)
 > 
 > 官方插件：[Attachement](http://www.foobar2000.org/components)
-> 外部插件：[FLAC-codec](https://ftp.osuosl.org/pub/xiph/releases/flac/flac-1.3.2-win.zip)
+> 外部插件：[FLAC-codec*](https://ftp.osuosl.org/pub/xiph/releases/flac/flac-1.3.2-win.zip)
 
 #### [GitKraken](https://www.gitkraken.com/)
 
@@ -111,8 +114,8 @@
 > #视频# #压制# #转码# #视频压制# #视频转码#
 >
 > 下载：
-> [Windows x86](http://www.mediacoderhq.com/mirrors.html?file=MediaCoder-0.8.55.exe)、
-> [Windows x64](http://www.mediacoderhq.com/mirrors.html?file=MediaCoder-x64-0.8.56.exe)
+> [Windows x86*](http://www.mediacoderhq.com/mirrors.html?file=MediaCoder-0.8.55.exe)、
+> [Windows x64*](http://www.mediacoderhq.com/mirrors.html?file=MediaCoder-x64-0.8.56.exe)
 
 #### [PotPlayer](https://potplayer.daum.net/?lang=zh_CN)
 
@@ -135,7 +138,7 @@
 > #磁盘# #空间占用#
 >
 > 下载：
-> [Windows](https://www.fosshub.com/SpaceSniffer.html?dwl=spacesniffer_1_3_0_2.zip)
+> [Windows*](https://www.fosshub.com/SpaceSniffer.html?dwl=spacesniffer_1_3_0_2.zip)
 
 #### [Sublime Text 3](http://www.sublimetext.com/)
 
@@ -146,9 +149,9 @@
 > #文本# #编辑器# #文本编辑器# #代码编辑器#
 > 
 > 下载：
-> [Windows x86](https://download.sublimetext.com/Sublime%20Text%20Build%203176%20Setup.exe)、
-> [Windows x64](https://download.sublimetext.com/Sublime%20Text%20Build%203176%20x64%20Setup.exe)、
-> [MacOS](https://download.sublimetext.com/Sublime%20Text%20Build%203176.dmg)、
+> [Windows x86*](https://download.sublimetext.com/Sublime%20Text%20Build%203176%20Setup.exe)、
+> [Windows x64*](https://download.sublimetext.com/Sublime%20Text%20Build%203176%20x64%20Setup.exe)、
+> [MacOS*](https://download.sublimetext.com/Sublime%20Text%20Build%203176.dmg)、
 > [Linux](http://www.sublimetext.com/docs/3/linux_repositories.html)
 
 #### [Xshell](https://www.netsarang.com/products/xsh_overview.html)
