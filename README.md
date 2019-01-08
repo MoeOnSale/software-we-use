@@ -83,7 +83,7 @@
 > 
 > **仅支持Windows(含XP)**。
 > 
-> #音乐# #HIFI#
+> #音乐# #HIFI# #DLNA服务器#
 > 
 > 下载：
 > [Windows*](http://www.foobar2000.org/getfile/da921877766ab8d9f6fe977ffa1a63d3/foobar2000_v1.4.1.exe)
