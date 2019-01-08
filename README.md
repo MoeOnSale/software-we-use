@@ -154,6 +154,21 @@
 > [MacOS*](https://download.sublimetext.com/Sublime%20Text%20Build%203176.dmg)、
 > [Linux](http://www.sublimetext.com/docs/3/linux_repositories.html)
 
+#### [Visual Studio Code](https://code.visualstudio.com/)
+
+> 强大的代码编辑器，支持插件，可作为轻量级IDE
+> 
+> **全平台支持**
+> 
+> #文本# #编辑器# #文本编辑器# #代码编辑器# #IDE#
+> 
+> 下载：
+> [Windows x86](https://aka.ms/win32-user-stable)、
+> [Windows x64](https://aka.ms/win32-x64-user-stable)、
+> [MacOS](https://code.visualstudio.com/docs/?dv=osx)、
+> Linux x86 [deb](https://code.visualstudio.com/docs/?dv=linux32_deb)/[rpm](https://code.visualstudio.com/docs/?dv=linux32_rpm)、
+> Linux x64 [deb](https://code.visualstudio.com/docs/?dv=linux64_deb)/[rpm](https://code.visualstudio.com/docs/?dv=linux64_rpm)
+
 #### [Xshell](https://www.netsarang.com/products/xsh_overview.html)
 
 > 强大的命令行终端，支持SSH/TELNET/Serial
