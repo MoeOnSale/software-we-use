@@ -61,6 +61,19 @@
 > 
 > 相关链接：[Bandisoft](https://www.bandisoft.com/)
 
+#### [Everything](https://www.voidtools.com/)
+
+> 文件搜索软件，自建索引实时更新，搜索速度快。
+> 
+> **仅支持Windows(含XP)**
+> 
+> #搜索# #文件#
+> 
+> 下载：
+> [Windows x86](https://www.voidtools.com/Everything-1.4.1.924.x86-Setup.exe)、
+> [Windows x64](https://www.voidtools.com/Everything-1.4.1.924.x64-Setup.exe)、
+> 免安装[x86](https://www.voidtools.com/Everything-1.4.1.924.x86.zip)/[x64](https://www.voidtools.com/Everything-1.4.1.924.x64.zip)
+
 #### [Foobar2000](http://www.foobar2000.org/)
 
 > foobar2000 is an advanced freeware audio player for the Windows platform. 
