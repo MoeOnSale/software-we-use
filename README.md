@@ -179,3 +179,32 @@
 > 
 > 下载:
 > [Windows](https://www.netsarang.com/download/down_form.html?code=622) 
+
+#### [Rapid Environment Editor](https://www.rapidee.com)
+
+> 增强型 Windows 环境变量管理软件，抛弃原生弱鸡的编辑方式。
+> 
+> **仅支持Windows**
+> 
+> #环境变量# #env# #environment# #editor#
+> 
+> 下载：
+> [Windows x86](https://www.rapidee.com/download/RapidEE.zip)、
+> [Windows x64](https://www.rapidee.com/download/RapidEEx64.zip)、
+> [Windows setup](https://www.rapidee.com/download/RapidEE_setup.exe)
+> 
+> 相关链接：[About - Rapid Environment Editor](https://www.rapidee.com/en/about)
+
+#### [AltDrag](https://stefansundin.github.io/altdrag/)
+
+> 按下 Alt 即可拖拽任意窗口，快速调节窗口大小。展现操作的时候到了！
+> 
+> **仅支持Windows**
+> 
+> #环境变量# #env# #environment# #editor#
+> 
+> 下载：
+> [Windows setup](https://github.com/stefansundin/altdrag/releases/download/v1.1/AltDrag-1.1.exe)、
+> [Windows portable](https://github.com/stefansundin/altdrag/releases/download/v1.1/AltDrag-1.1.zip)、
+> 
+> 相关链接：[AltDrag Documentation](https://stefansundin.github.io/altdrag/doc/)
