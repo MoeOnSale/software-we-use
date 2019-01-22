@@ -201,7 +201,7 @@
 > 
 > **仅支持Windows**
 > 
-> #环境变量# #env# #environment# #editor#
+> #Alt# #window# #窗口# #Drag#
 > 
 > 下载：
 > [Windows setup](https://github.com/stefansundin/altdrag/releases/download/v1.1/AltDrag-1.1.exe)、
