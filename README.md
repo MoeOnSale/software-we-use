@@ -105,6 +105,19 @@
 > [MacOS](https://www.gitkraken.com/download/mac)、
 > [Linux deb](https://www.gitkraken.com/download/linux-deb)
 
+#### [KMPlayer](http://www.kmplayer.com)
+
+> 老牌视频播放软件支持格式全，解码靠谱。棒子产。
+> 
+> **Win/macOS**
+> 
+> #视频# #解码# #播放器# #视频播放器#
+> 
+> 下载：
+> [Windows x86](http://update.kmpmedia.net/player/update)、
+> [Windows x64](http://update.kmpmedia.net/kmp64player/update)、
+> [macOS](http://cdn.kmplayer.com/KMP/Download/KMPX/KMPlayer-0.3.2.pkg)、
+
 #### [MediaCoder](http://www.mediacoderhq.com/dlfull.htm)
 
 > 简单易懂的转码压制软件，支持OpenCL/CUDA/Intel Encoder
