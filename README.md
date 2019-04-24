@@ -221,3 +221,14 @@
 > 
 > 下载:
 > [Windows](https://www.netsarang.com/download/down_form.html?code=622) 
+
+#### [insomnia](https://insomnia.rest/)
+
+> API调试和编写工具
+> 
+> **全平台支持**
+> 
+> #终端# #API# #HTTP# #GraphQL#
+> 
+> 下载:
+> [All](https://insomnia.rest/download/) 
