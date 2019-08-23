@@ -232,3 +232,33 @@
 > 
 > 下载:
 > [All](https://insomnia.rest/download/) 
+
+#### [Sourcetree](https://www.sourcetreeapp.com/)
+
+> 免费经典老牌Git GUI工具，功能丰富支持多平台多语言，堪称最全功能Git可视化工具
+> 
+> **支持所有语言**
+>
+> #git# #gui#
+> 
+> 下载：
+> [Windows](https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.1.3.exe)、
+> [MacOS](https://product-downloads.atlassian.com/software/sourcetree/ga/Sourcetree_3.2.1_225.zip)
+> 
+
+#### [Sublime Merge](https://www.sublimemerge.com/)
+
+> 类SublimeText风格的Git GUI工具，特色：快速、三向合并工具、并排差异、语法突出显示
+> 
+> **全平台支持**
+> 
+> #git# #gui#
+> 
+> 下载：
+> [Windows](https://download.sublimetext.com/sublime_merge_build_1116_x64_setup.exe)、
+> [MacOS](https://download.sublimetext.com/sublime_merge_build_1116_mac.zip)、
+> [Linux-amd64-deb](https://download.sublimetext.com/sublime-merge_build-1116_amd64.deb)、
+> [Linux-x86_64-rpm](https://download.sublimetext.com/sublime-merge-1116-1.x86_64.rpm)、
+> [Linux-x86_64-pkg_tar_xz](https://download.sublimetext.com/sublime-merge-1116-1-x86_64.pkg.tar.xz)
+> 
+> [Linux下其他安装方式](https://www.sublimemerge.com/docs/linux_repositories)
