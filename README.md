@@ -268,6 +268,8 @@
 
 > 自定义快捷键、组合快捷键、键位互换等功能。简单易用，功能可按脚本区分，并独立运作。
 > 
+> ![logo](https://www.autohotkey.com/assets/images/ahk-logo-no-text241x78-180.png)
+> 
 > 中文文档地址: http://ahkcn.sourceforge.net/docs/AutoHotkey.htm
 > 
 > **仅支持Windows**
