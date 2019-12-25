@@ -262,3 +262,18 @@
 > [Linux-x86_64-pkg_tar_xz](https://download.sublimetext.com/sublime-merge-1116-1-x86_64.pkg.tar.xz)
 > 
 > [Linux下其他安装方式](https://www.sublimemerge.com/docs/linux_repositories)
+
+
+#### [AutoHotKey](https://www.autohotkey.com/)
+
+> 自定义快捷键、组合快捷键、键位互换等功能。简单易用，功能可按脚本区分，并独立运作。
+> 
+> 中文文档地址: http://ahkcn.sourceforge.net/docs/AutoHotkey.htm
+> 
+> **仅支持Windows**
+> 
+> #工具# #键盘# #快捷键#
+> 
+> 下载：
+> [Windows](https://www.autohotkey.com/download/ahk-install.exe)
+> 
