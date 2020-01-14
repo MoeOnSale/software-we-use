@@ -299,3 +299,34 @@
 > [Softpedia](http://mac.softpedia.com/get/Internet-Utilities/SwitchHosts-App.shtml#download)
 > 
 
+#### [ScreenToGif](https://www.screentogif.com/?l=zh_cn)
+
+> 屏幕，摄像头和白板录像机与集成编辑器。
+> 
+> ![logo](https://www.screentogif.com/screenshots/Recorder.png)
+> 
+> 
+> **要求：Windows7或更高版本和.Net Framework 4.6.1 或更高版本**
+> 
+> #工具# #截图# #gif#
+> 
+> 下载：
+> [完整版本](https://github.com/NickeManarin/ScreenToGif/releases/download/2.19.3/ScreenToGif.2.19.3.Setup.msi)、
+> [便携版](https://github.com/NickeManarin/ScreenToGif/releases/download/2.19.3/ScreenToGif.2.19.3.Portable.zip)
+>
+
+
+#### [LICEcap](https://www.cockos.com/licecap/)
+
+> 适用于Windows和OS X的LICEcap简单动画屏幕捕获工具。极简、非常的小。
+> 
+> ![logo](https://www.cockos.com/licecap/how_to_licecap.gif)
+> 
+> 
+> #工具# #截图# #gif#
+> 
+> 下载：
+> [macOS](https://www.cockos.com/licecap/licecap129.dmg)、
+> [Windows](https://www.cockos.com/licecap/licecap128-install.exe)
+>
+
