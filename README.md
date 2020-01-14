@@ -279,3 +279,23 @@
 > 下载：
 > [Windows](https://www.autohotkey.com/download/ahk-install.exe)
 > 
+
+#### [SwitchHosts](https://oldj.github.io/SwitchHosts/)
+
+> SwitchHosts! 是一个管理、切换多个 hosts 方案的工具。它是一个免费开源软件。
+> 
+> ![logo](https://oldj.github.io/SwitchHosts/images/sh_light.png)
+> 
+> #工具# #Hosts# 
+> 
+> 下载：
+> [Linux_x64](https://github.com/oldj/SwitchHosts/releases/download/v3.5.3/SwitchHosts._linux_x64_3.5.3.5514.zip)、
+> [Linux_x86](https://github.com/oldj/SwitchHosts/releases/download/v3.5.3/SwitchHosts._linux_x86_64_3.5.3.5514.AppImage)、
+> [macOS_dmg](https://github.com/oldj/SwitchHosts/releases/download/v3.5.3/SwitchHosts._macOS_3.5.3.5514.dmg)、
+> [macOS_zip](https://github.com/oldj/SwitchHosts/releases/download/v3.5.3/SwitchHosts._macOS_3.5.3.5514.zip)、
+> [Windows_installer](https://github.com/oldj/SwitchHosts/releases/download/v3.5.3/SwitchHosts._windows_installer_3.5.3.5514.exe)、
+> [Windows_portable](https://github.com/oldj/SwitchHosts/releases/download/v3.5.3/SwitchHosts._windows_portable_3.5.3.5514.exe)、
+> [百度网盘](http://pan.baidu.com/share/link?shareid=150951&uk=3607385901)
+> [Softpedia](http://mac.softpedia.com/get/Internet-Utilities/SwitchHosts-App.shtml#download)
+> 
+
