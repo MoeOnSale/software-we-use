@@ -330,3 +330,32 @@
 > [Windows](https://www.cockos.com/licecap/licecap128-install.exe)
 >
 
+
+#### [Wox](http://www.wox.one/)
+> 在windows下配合everthing使用可以像macOS的spotlight一样的体验
+> 
+> ![logo](http://www.wox.one/images/wox_preview.jpg)
+> 
+> **仅支持Windows**
+> 
+> #工具# #便捷搜索#
+> 
+> 下载：
+> [github](https://github.com/Wox-launcher/Wox/releases)
+>
+
+
+#### [Internet Download Manager](http://internetdownloadmanager.com/)
+> IDM可以帮你提升5倍速度的下载软件，多线程下载让速度倍增。
+> 
+> 别看他样子古老，不但支持IE11还支持Chrome、Firefox浏览器
+> 
+> ![logo](http://www.internetdownloadmanager.com/)
+> 
+> **仅支持Windows**
+> 
+> #工具# #下载器#
+> 
+> 下载：
+> [Windows](http://mirror2.internetdownloadmanager.com/idman636build7.exe?v=lt&filename=idman636build7.exe)
+>
