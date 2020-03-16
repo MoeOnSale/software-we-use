@@ -350,7 +350,7 @@
 > 
 > 别看他样子古老，不但支持IE11还支持Chrome、Firefox浏览器
 > 
-> ![logo](http://www.internetdownloadmanager.com/)
+> ![logo](http://internetdownloadmanager.com/home/idm.png)
 > 
 > **仅支持Windows**
 > 
