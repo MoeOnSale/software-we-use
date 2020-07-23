@@ -105,3 +105,15 @@
 > 
 > #免费# #PDF# #工具#
 > 
+
+
+#### [imgchr图床](https://imgchr.com/)
+
+> 路过图床-高速稳定的图片上传和外链服务
+> 
+> 全球CDN加速, 最大单张支持 10 MB, 支持批量上传
+> 
+> ![logo_homepage_1587118550966_46110d.png](https://imgchr.com/content/images/system/logo_homepage_1587118550966_46110d.png)
+> 
+> #免费# #图床# #工具#
+> 
