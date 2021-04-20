@@ -131,7 +131,7 @@
 
 > GitHub 文件 , Releases , archive 以及 raw.githubusercontent.com 文件加速下载服务.
 > 
-> ![github.png](https://gh.ghproxy.com/images/github.png)
+> ![c7QeFe.jpg](https://z3.ax1x.com/2021/04/20/c7QeFe.jpg)
 >
 > #服务# #免费#
 
@@ -140,7 +140,7 @@
 
 > 在线转换PDF，在线转换文档，在线转换电子书，在线转换图像，在线转换视频，在线转换音频。
 > 
-> [![c7MjdU.png](https://z3.ax1x.com/2021/04/20/c7MjdU.png)](https://imgtu.com/i/c7MjdU)
+> ![c7MjdU.png](https://z3.ax1x.com/2021/04/20/c7MjdU.png)
 > 
 > #服务# #免费#
 
