@@ -358,4 +358,18 @@
 > 
 > 下载：
 > [Windows](http://mirror2.internetdownloadmanager.com/idman636build7.exe?v=lt&filename=idman636build7.exe)
+
+
+
+#### [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html)
+> 文件分析神器
+> 
+> ![logo](https://z3.ax1x.com/2021/08/11/fNzIa9.png)
+> 
+> **仅支持Windows**
+> 
+> #工具# #分析# #目录# #大小#
+> 
+> 下载：
+> [Windows](https://www.fosshub.com/SpaceSniffer.html)
 >
