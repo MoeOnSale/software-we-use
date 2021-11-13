@@ -372,4 +372,18 @@
 > 
 > 下载：
 > [Windows](https://www.fosshub.com/SpaceSniffer.html)
+
+
+
+#### [tabby](http://www.uderzo.it/main_products/space_sniffer/index.html)
+> 现代终端 Tabby(原来叫terminus) 是一个无限可定制的跨平台终端应用程序，用于本地 shell、串行、SSH 和 Telnet 连接。 
+> 
+> 
+> ![msedge_bixarioRZo.png](https://i.loli.net/2021/11/13/YXsRn36tVQGSw1U.png)
+> 
+> 
+> #shell# #编辑器#
+> 
+> 下载：
+> [下载地址](https://github.com/Eugeny/tabby/releases/tag/v1.0.161)
 >
