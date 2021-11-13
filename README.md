@@ -375,7 +375,7 @@
 
 
 
-#### [tabby](http://www.uderzo.it/main_products/space_sniffer/index.html)
+#### [tabby](https://tabby.sh/)
 > 现代终端 Tabby(原来叫terminus) 是一个无限可定制的跨平台终端应用程序，用于本地 shell、串行、SSH 和 Telnet 连接。 
 > 
 > 
@@ -386,4 +386,16 @@
 > 
 > 下载：
 > [下载地址](https://github.com/Eugeny/tabby/releases/tag/v1.0.161)
+>
+
+#### [SheraX](https://getsharex.com/)
+> 屏幕截图、文件共享和生产力工具
+> 
+> ![msedge_W1xwwwyT1D.png](https://i.loli.net/2021/11/13/FZsLnp4r8Uwq1SP.png)
+> 
+> 
+> #屏幕截图# #截屏#
+> 
+> 下载：
+> [下载地址](https://getsharex.com/)
 >
