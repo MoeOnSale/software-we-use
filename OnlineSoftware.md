@@ -144,3 +144,24 @@
 > 
 > #服务# #免费#
 
+
+#### [Syncthing 开源免费多平台文件同步工具](https://syncthing.net/)
+
+> Syncthing 是一个连续的文件同步程序。它实时同步两台或多台计算机之间的文件，安全地防止窥探。您的数据只是您的数据，您应该选择它的存储位置、是否与第三方共享以及如何通过互联网传输。
+> 
+> ![kVtNP8OJY61jSxL.png](https://s2.loli.net/2021/12/17/kVtNP8OJY61jSxL.png)
+> 
+> #服务# #免费# #同步文件# #跨平台#
+
+
+#### [logseq ](https://github.com/logseq/logseq)
+
+> 一个隐私至上的开源知识管理和协作平台。目前只有PC版本，安卓应用正在测试当中。
+> 
+> ![Y8fW6abPnDQEkVt.png](https://s2.loli.net/2021/12/17/Y8fW6abPnDQEkVt.png)
+> 
+> #服务# #免费# #同步文件# #跨平台#
+
+
+
+
