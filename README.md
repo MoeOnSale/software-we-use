@@ -359,22 +359,6 @@
 > 下载：
 > [Windows](http://mirror2.internetdownloadmanager.com/idman636build7.exe?v=lt&filename=idman636build7.exe)
 
-
-
-#### [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html)
-> 文件分析神器
-> 
-> ![logo](https://z3.ax1x.com/2021/08/11/fNzIa9.png)
-> 
-> **仅支持Windows**
-> 
-> #工具# #分析# #目录# #大小#
-> 
-> 下载：
-> [Windows](https://www.fosshub.com/SpaceSniffer.html)
-
-
-
 #### [tabby](https://tabby.sh/)
 > 现代终端 Tabby(原来叫terminus) 是一个无限可定制的跨平台终端应用程序，用于本地 shell、串行、SSH 和 Telnet 连接。 
 > 
@@ -399,3 +383,14 @@
 > 下载：
 > [下载地址](https://getsharex.com/)
 >
+
+
+#### [snipaste](https://zh.snipaste.com/)
+> 截图 + 贴图 工具。免费. 免安装. 可个性定制.
+> 
+> ![logo](https://i.v2ex.co/N3QEb3VA.png)
+> 
+> #工具# #截图#
+> 
+> 下载：
+> [下载地址](https://zh.snipaste.com/)
