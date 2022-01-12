@@ -394,3 +394,14 @@
 > 
 > 下载：
 > [下载地址](https://zh.snipaste.com/)
+
+
+#### [Iriun](https://iriun.com/)
+> 将手机的摄像头用作 PC 或 Mac 中的无线网络摄像头。 安装适用于 Windows、Mac 或 Linux 的网络摄像头，将 Iriun 网络摄像头应用程序下载到您的手机，然后开始使用手机和您喜欢的视频应用程序。
+> 
+> ![](https://s2.loli.net/2022/01/12/CRekz56GWwtOurY.png)
+> 
+> #工具# #摄像# #跨平台#
+> 
+> 下载：
+> [下载地址](https://iriun.com/)
