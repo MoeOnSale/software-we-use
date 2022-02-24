@@ -154,7 +154,7 @@
 > #服务# #免费# #同步文件# #跨平台#
 
 
-#### [logseq ](https://github.com/logseq/logseq)
+#### [logseq](https://github.com/logseq/logseq)
 
 > 一个隐私至上的开源知识管理和协作平台。目前只有PC版本，安卓应用正在测试当中。
 > 
@@ -162,6 +162,14 @@
 > 
 > #服务# #免费# #同步文件# #跨平台#
 
+
+#### [Table Convert Online](https://tableconvert.com/)
+
+> 该转换器用于将 CSV（自动检测分隔符）转换为 Markdown 表。
+> 
+> ![](https://s2.loli.net/2022/02/24/LOMC7KmfhTxvQD5.png)
+> 
+> #Markdown# #免费# #工具#
 
 
 
