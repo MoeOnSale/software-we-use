@@ -280,7 +280,7 @@
 > [Windows](https://www.autohotkey.com/download/ahk-install.exe)
 > 
 
-#### [SwitchHosts](https://oldj.github.io/SwitchHosts/)
+#### [SwitchHosts](https://github.com/oldj/SwitchHosts)
 
 > SwitchHosts! 是一个管理、切换多个 hosts 方案的工具。它是一个免费开源软件。
 > 
