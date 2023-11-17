@@ -419,3 +419,17 @@
 > 
 > 下载：
 > [下载地址](http://www.httrack.com/page/2/en/index.html)
+
+
+
+#### [Quicker](https://getquicker.net/)
+> Quicker 是 Windows 平台下的一款效率工具。无需编程技巧，通过图形化的操作面板，简单设置便可快速启动软件、系统资源。并且为常用软件开启专属工具箱，一键启动原本要多次点击鼠标的操作。怕折腾的你，还能在数不清的动作库中，找到需要的操作捷径。
+> 
+> 特色：包含各种常用小功能，比如ORC、智能识别、聚合翻译等功能。
+> 
+> ![](https://files.getquicker.net/_sitefiles/home/%E9%9D%A2%E6%9D%BF%E7%AA%97%E5%8F%A33.gif)
+> 
+> #工具# #爬虫# #全平台#
+> 
+> 下载：
+> [下载地址](https://getquicker.net/Download)
