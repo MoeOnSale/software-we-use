@@ -433,3 +433,16 @@
 > 
 > 下载：
 > [下载地址](https://getquicker.net/Download)
+
+
+#### [Free Download Manager](https://www.freedownloadmanager.org/)
+> 免费下载管理器可加速所有类型的下载（文件、视频、种子）。它是适用于 Windows 和 macOS 的智能且快速的互联网下载管理器。
+> 
+> 特色：免费且覆盖全下载方式
+> 
+> ![](https://www.freedownloadmanager.org/public/img/v2/src_win.svg)
+> 
+> #工具# #下载# #全平台#
+> 
+> 下载：
+> [下载地址](https://www.freedownloadmanager.org/download.htm)
