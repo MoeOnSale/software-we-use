@@ -446,3 +446,15 @@
 > 
 > 下载：
 > [下载地址](https://www.freedownloadmanager.org/download.htm)
+
+
+#### [X-Mouse Button Control](https://www.highrez.co.uk/downloads/xmousebuttoncontrol.htm)
+> X-Mouse Button Control (XMBC) 是一款适用于 Windows 的免费工具，可让您重新配置和重新映射鼠标按钮以扩展鼠标的功能。
+> 
+> 
+> #工具# #下载# #Windows#
+> 
+> 下载：
+> [下载地址](https://www.highrez.co.uk/downloads/xmousebuttoncontrol.htm)
+
+
