@@ -458,3 +458,15 @@
 > [下载地址](https://www.highrez.co.uk/downloads/xmousebuttoncontrol.htm)
 
 
+#### [TeamSpeak](https://www.teamspeak.com/zh-CN/)
+> 免费语音软件，需自建服务器（TS3与TS5服务器兼容）。
+>
+> 特色：功能强大，界面美观，无广告，占用小。
+> 
+> ![](https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxvYCyOLZceV1bKeOwsVaBZoZQ.X5WsNCjK_8x4uOdfG7GeNxxgIwgx..RFgBUBMdf2bWJVr34Rfw5zmHnhwjMnI-&format=source)
+>
+> #语音# #全平台#
+> 
+> 下载：
+> [下载地址](https://www.teamspeak.com/zh-CN/downloads/)
+> [微软商店](https://apps.microsoft.com/detail/TeamSpeak/XPDCJ80KGNRVSS?launch=true&mode=mini)
