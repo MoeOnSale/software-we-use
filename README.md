@@ -470,3 +470,13 @@
 > 下载：
 > [下载地址](https://www.teamspeak.com/zh-CN/downloads/)
 > [微软商店](https://apps.microsoft.com/detail/TeamSpeak/XPDCJ80KGNRVSS?launch=true&mode=mini)
+
+#### [DB Browser for SQLite](https://sqlitebrowser.org/)
+> SQLite 的数据库浏览器 (DB4S) 是一种高质量、可视化的开源工具，专为想要创建、搜索和编辑 SQLite 或 SQLCipher 数据库文件的人们而设计。
+> 
+> ![](https://github.com/sqlitebrowser/sqlitebrowser/raw/master/images/sqlitebrowser.png)
+>
+> #SQLite# #全平台# #工具#
+> 
+> 下载：
+> [下载地址](https://sqlitebrowser.org/)
