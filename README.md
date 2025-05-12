@@ -480,3 +480,20 @@
 > 
 > 下载：
 > [下载地址](https://sqlitebrowser.org/)
+
+#### [Flutter Server Box](https://github.com/lollipopkit/flutter_server_box)
+> 使用 Flutter 开发的 Linux 服务器工具箱，提供服务器状态图表和管理工具。
+>
+> 特色：
+> - 移动/PC全平台客户端
+> - 支持多种服务器状态监控，支持多种服务器管理工具
+> - 与服务配合支持事件推送
+>
+> | | | |
+> |-|-|-|
+> | ![](https://camo.githubusercontent.com/752fc795c7f183f44f46f1386cda7ffd9eefe4684dadd6cb7348e4797cf732da/68747470733a2f2f63646e2e6c706b742e636e2f736572766572626f782f73637265656e73686f742f312e6a7067) | ![](https://camo.githubusercontent.com/fc80b269c7436fbe3d5e002d343dc8225ef89a84a59bf13b54691938ef864bde/68747470733a2f2f63646e2e6c706b742e636e2f736572766572626f782f73637265656e73686f742f322e6a7067) | ![](https://camo.githubusercontent.com/a8ac68c0f9cc384993a38bb9e90985a01af7d26e128850b50de7bbe6ccf83e51/68747470733a2f2f63646e2e6c706b742e636e2f736572766572626f782f73637265656e73686f742f342e6a7067) |
+>
+> #工具# #运维# #全平台#
+>
+> 下载：
+> [下载地址](https://github.com/lollipopkit/flutter_server_box#-install)
