@@ -172,4 +172,10 @@
 > #Markdown# #免费# #工具#
 
 
+#### [Excel to Markdown](https://exceltomd.com/excel-to-markdown)
+
+> 在浏览器本地将 XLSX、XLS、CSV 或粘贴表格转换为 Markdown 表格，无需注册或上传文件。
+>
+> #Markdown# #免费# #工具# #本地处理#
+
 
